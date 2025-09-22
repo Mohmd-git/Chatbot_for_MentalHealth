@@ -2,7 +2,7 @@
 
 A simple, interactive chatbot designed to provide initial support, information, and a safe space for individuals dealing with mental health concerns. The chatbot offers guided conversations, basic coping strategies, and easy access to professional resources.
 
-# Disclaimer: This chatbot is not a substitute for professional medical advice, diagnosis, or treatment. It is intended for informational purposes only. If you are in crisis or need immediate help, please contact a professional health provider or a crisis hotline.
+#### Disclaimer: This chatbot is not a substitute for professional medical advice, diagnosis, or treatment. It is intended for informational purposes only. If you are in crisis or need immediate help, please contact a professional health provider or a crisis hotline.
 
 ### 🚀 Features
 Guided Conversations: Engages users in structured dialogues to understand their feelings and needs.
